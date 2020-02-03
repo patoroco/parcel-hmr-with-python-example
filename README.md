@@ -12,7 +12,7 @@ npm install
 # run the python webserver in a terminal
 npm run web
 
-# watch the changes in the `index.html` and `index.js` files
+# run the watch in another terminal to watch the changes in the `index.html` and `index.js` files
 npm run watch
 ```
 
